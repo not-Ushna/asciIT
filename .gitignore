@@ -1,0 +1,42 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+ENV/
+env/
+
+# ---- OS Files ----
+.DS_Store
+Thumbs.db
+
+# ---- IDE & Editor ----
+.vscode/
+.idea/
+
+# ---- Build & Distribution ----
+build/
+dist/
+*.egg-info/
+
+# ---- Logs & Temp ----
+*.log
+*.tmp
+*.bak
+
+# ---- Project Specific (asciIT) ----
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Output directories
+output/
+ascii_output/
+
+# ---- Notebooks ----
+.ipynb_checkpoints/
